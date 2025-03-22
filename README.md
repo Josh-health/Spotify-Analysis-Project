@@ -45,5 +45,22 @@ CREATE TABLE spotify(
 	most_played_on VARCHAR(50)
 	);
 ```
+### Exploratory Data Analysis
+```sql
+SELECT COUNT(*) FROM spotify;
+	SELECT COUNT(DISTINCT artist) FROM spotify;
+	SELECT COUNT(DISTINCT album) FROM spotify;
+	SELECT COUNT(DISTINCT album_type) FROM spotify;
+	SELECT duration_min FROM spotify;
+	SELECT MAX(duration_min)  FROM spotify;
+	SELECT MIN(duration_min)  FROM spotify;
+		SELECT * FROM spotify
+		WHERE duration_min = 0;
+		--- delete record with duration_min = 0
+		DELETE FROM spotify
+		WHERE duration_min = 0;
+	SELECT DISTINCT channel FROM spotify;
+	SELECT DISTINCT most_played_on FROM spotify;
+```
 
 
