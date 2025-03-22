@@ -288,5 +288,11 @@ SELECT * FROM
 - Some albums have consistently higher danceability scores, which may indicate a focus on creating upbeat, dance-friendly music.
 - Licensed tracks tend to have a high number of comments, suggesting that licensing might correlate with better engagement and visibility.
 
+### Contact
+For any questions or collaborations, feel free to reach out:
+- Your LinkedIn: www.linkedin.com/in/joshua-egbeyemi-43b641220
+- GitHub: https://github.com/Josh-health
+- Email: jadegbola929@gmail.com
+
 
 
