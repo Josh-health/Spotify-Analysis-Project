@@ -282,3 +282,11 @@ SELECT * FROM
 	ORDER BY 2;
 ```
 
+### Insight and Conclusions:
+- Only a few tracks surpass 1 billion streams, indicating that extreme popularity is rare and concentrated among a small group of songs.
+- Certain tracks are streamed more on Spotify than on YouTube, which may reflect differences in user preferences across platforms.
+- Some albums have consistently higher danceability scores, which may indicate a focus on creating upbeat, dance-friendly music.
+- Licensed tracks tend to have a high number of comments, suggesting that licensing might correlate with better engagement and visibility.
+
+
+
